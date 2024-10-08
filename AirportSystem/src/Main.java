@@ -71,7 +71,7 @@ public class Main {
         pes1.showLuggageDetails();
         pes2.showLuggageDetails();
 
-        System.out.println("setting git");
+
 
 
 
